@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="button">Open URL</string>
+    <string name="button2">Dial</string>
+    <string name="button3">Open  Implicit 3</string>
+    <string name="button4">Open  Implicit 4</string>
+    <string name="chooser_title">Sélectionnez une application</string>
+</resources>
