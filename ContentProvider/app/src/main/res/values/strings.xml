@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="button">Start Activity</string>
+    <string-array name="sentence">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+    </string-array>
+</resources>
